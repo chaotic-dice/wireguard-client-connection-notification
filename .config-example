@@ -1,2 +1,2 @@
-chat=type-your-chat-id
-token=type-your-bot-token
+host=http://<ip_address>:<port>
+token=type-your-gotify-token
